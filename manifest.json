@@ -1,0 +1,20 @@
+{
+  "name": "Music Prompt Maker",
+  "short_name": "PromptMaker",
+  "start_url": "/Music_PromptMaker/",
+  "display": "standalone",
+  "background_color": "#0d1b2a",
+  "theme_color": "#F5C400",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
